@@ -314,7 +314,15 @@ The project is designed for iterative production hardening.
 
 ---
 
-## 16. Purpose of This Repository
+## 16 Relationship with Other Repositories
+
+This repository integrates with:
+
+- [central-de-chamados](https://github.com/Central-de-Chamados/central-de-chamados) → Architectural overview  
+- [central-de-chamados-infra](https://github.com/Central-de-Chamados/central-de-chamados_infra) → Supports frontend deployment and observability  
+- [central-de-chamados-frontend](https://github.com/Central-de-Chamados/central-de-chamados_frontend) → Frontend interface integrated with the API  
+
+## 17. Purpose of This Repository
 
 This backend demonstrates:
 
