@@ -1,3 +1,6 @@
+**Language:** 🇺🇸 English | [🇧🇷 Português](./README.pt-br.md)
+
+
 # Central de Chamados – Backend
 
 ### Serverless Multi-Tenant Backend for Structured WhatsApp-Based Service Operations
